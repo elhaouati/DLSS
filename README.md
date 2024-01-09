@@ -1,8 +1,8 @@
 # DLSS
 
 This repository is implementation of the ["Image Super-Resolution Using Deep Convolutional Networks"](https://arxiv.org/abs/1501.00092).
-and based on ["a git hub source for educational purpose only"](https://github.com/yjn870/SRCNN-pytorch)
-then fined tuned for our application
+and based on ["a github source for educational purpose only"](https://github.com/yjn870/SRCNN-pytorch)
+then fined tuned for our specific application
 <center><img src="fig1.png"></center>
 
 ## Differences from the original
